@@ -1,7 +1,7 @@
 ## Contents
 1. [Project Name](#project-name)
 2. [Problem Statement](#problem-statement)
-3. [Prerequisites and Packages/Libraries](#prerequisites-and-packageslibraries)
+3. [Business Benefits](#business-benefits)
 4. [Getting Started](#getting-started)
 5. [Installation and Configuration Instructions](#installation-and-configuration-instructions)
 6. [Running the project_flask Application](#running-the-project_flask-application)
