@@ -1,6 +1,6 @@
 ## Contents
 1. [Project Name](#project-name)
-2. [Project Description](#project-description)
+2. [Problem Statement](#problem-statement)
 3. [Prerequisites and Packages/Libraries](#prerequisites-and-packageslibraries)
 4. [Getting Started](#getting-started)
 5. [Installation and Configuration Instructions](#installation-and-configuration-instructions)
