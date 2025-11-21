@@ -20,10 +20,10 @@
 - The company lacks a systematic understanding of how users move through different lifecycle stages, making it difficult to identify where and why users drop off. Without clear insights into user progression and retention trends, the business cannot effectively target interventions or prioritize opportunities for growth.
 - The data was sourced through a third party (Halight) via Athena; an AWS SQL Server.
 ## Business Benefits
-- Python 3.12.7
-- Flask and `render_template` from flask
-- SQLite3
-- Pathlib
+- Benefit 1: Improve user retention by identifying drop-off points and enabling targeted engagement strategies.
+- Benefit 2: Support data-driven decision-making for product and customer strategy teams through weekly lifecycle insights.
+- Benefit 3: Increase efficiency by automating user journey reporting and reducing manual analysis time.
+- Benefit 4: Discover growth opportunities by uncovering patterns in user behavior and lifecycle progression. 
 ## Getting Started
 - Develop Python codes:
   - SQL Database and Table using `sqlite3`
