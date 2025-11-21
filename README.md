@@ -17,7 +17,7 @@
 ## Project Name
 - **Retention Framework Insights**
 ## Project Purpose
-- The company lacks a systematic understanding of how users move through different lifecycle stages, making it difficult to identify where and why users drop off. Without clear insights into user progression and retention trends, the business cannot effectively target interventions or prioritize opportunities for growth.
+- This project is for helping the company understand how users move through their learning journey. By analyzing where users drop off and how they engage, our final dashboard may give clear insights to improve retention, help with better decision making and show possible opportunities to make the learning experience more engaging and effective. 
 - The data was sourced through a third party (Halight) via Athena; an AWS SQL Server.
 ## Business Benefits
 - Benefit 1: Improve user retention by identifying drop-off points and enabling targeted engagement strategies.
