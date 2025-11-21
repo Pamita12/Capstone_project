@@ -19,7 +19,7 @@
 ## Problem Statement
 - The company lacks a systematic understanding of how users move through different lifecycle stages, making it difficult to identify where and why users drop off. Without clear insights into user progression and retention trends, the business cannot effectively target interventions or prioritize opportunities for growth.
 - The data was sourced through a third party (Halight) via Athena; an AWS SQL Server.
-## Prerequisites and Packages/Libraries
+## Business Benefits
 - Python 3.12.7
 - Flask and `render_template` from flask
 - SQLite3
