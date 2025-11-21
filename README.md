@@ -1,6 +1,6 @@
 ## Contents
 1. [Project Name](#project-name)
-2. [Problem Statement](#problem-statement)
+2. [Project Purpose](#project-purpose)
 3. [Business Benefits](#business-benefits)
 4. [Getting Started](#getting-started)
 5. [Installation and Configuration Instructions](#installation-and-configuration-instructions)
@@ -16,7 +16,7 @@
 14. [Additional Information](#additional-information)
 ## Project Name
 - **Retention Framework Insights**
-## Problem Statement
+## Project Purpose
 - The company lacks a systematic understanding of how users move through different lifecycle stages, making it difficult to identify where and why users drop off. Without clear insights into user progression and retention trends, the business cannot effectively target interventions or prioritize opportunities for growth.
 - The data was sourced through a third party (Halight) via Athena; an AWS SQL Server.
 ## Business Benefits
