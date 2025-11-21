@@ -15,10 +15,10 @@
 13. [References](#references)
 14. [Additional Information](#additional-information)
 ## Project Name
-- **Project_flask.py**
-## Project Description
-- The `project_flask.py` application allows users to view student health data stored in an SQLite database, `student_health_data.db`. The app provides a simple interface to navigate between the project information, about page, and the data table.
-- The data was sourced from Kaggle: [Student-Health-Data](https://www.kaggle.com/datasets/ziya07/student-health-data).
+- **Retention Framework Insights**
+## Problem Statement
+- The company lacks a systematic understanding of how users move through different lifecycle stages, making it difficult to identify where and why users drop off. Without clear insights into user progression and retention trends, the business cannot effectively target interventions or prioritize opportunities for growth.
+- The data was sourced through a third party (Halight) via Athena; an AWS SQL Server.
 ## Prerequisites and Packages/Libraries
 - Python 3.12.7
 - Flask and `render_template` from flask
