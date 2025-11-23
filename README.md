@@ -26,7 +26,7 @@
 - Benefit 3: Increase efficiency by automating user journey reporting and reducing manual analysis time.
 - Benefit 4: Discover growth opportunities by uncovering patterns in user behavior and lifecycle progression.
 ## Appendix:
-- The deliverables for our Capstone Project are listed down below:
+The deliverables for our Capstone Project are listed down below:
 
 
 1. _**Preliminary Dashboard in Power BI**_
