@@ -10,7 +10,7 @@
 
 ## Group Information:
 - Sean Bridgeman: Head of Product, Halight (Project Sponsor)
-- Prof. Manjari Maheshwari: Faculty, Capstone Project Coordinator
+- Prof. Manjari Maheshwari: Faculty - Data Analytics (Project Coordinator)
 - Sofia Alfaro
 - Yazan Al-Shash
 - Pamela Gatica
