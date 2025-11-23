@@ -10,9 +10,8 @@
 ## Group Information:
 - **Project Sponsor**: Sean Bridgeman.
 - **Project Coordinator**: Prof. Manjari Maheshwari 
-- **Project Manager**: Eddie Morgan 
 - **Core Team Members (5-person team):**
-    - Eddie Morgan
+    - Eddie Morgan: Team Lead
     - Diego Moreno
     - Sofia Alfaro
     - Pamela Gatica
