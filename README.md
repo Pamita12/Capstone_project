@@ -35,10 +35,15 @@ The deliverables for our Capstone Project are listed down below:
       - Average Daily Engagement Score over time
       - Total & Average Lifetimes per User
 
-2. _**RCS dataset (CSV)**_
+2. _**RCS dataset**_
 
-- Route: /
-- Functionality: Render homepage.html and provide navigation to other sections.
+    - A Command-Separated-Value (CSV) flat file comprising of 30 variables and 856 observations
+    - Some notable variables used in our analysis include:
+      - _avg_daily_engagement_score_
+      - _total_lifetimes_
+      - _client_name_
+      - _region_name_
+      - _month_date_
 
 3. **_Exploratory Data Analysis (EDA) in Jupyter Notebook (ipynb)_**
 
