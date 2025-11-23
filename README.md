@@ -3,10 +3,9 @@
 2. [Project Name](#project-name)
 3. [Project Purpose](#project-purpose)
 4. [Business Benefits](#business-benefits)
-5. [Cost Estimates](#cost-estimates)
-6. [Installation and Configuration Instructions](#installation-and-configuration-instructions)
-7. [Running the project_flask Application](#running-the-project_flask-application)
-8. [Appendix](#appendix)
+5.[Installation and Configuration Instructions](#installation-and-configuration-instructions)
+6. [Running the project_flask Application](#running-the-project_flask-application)
+7. [Appendix](#appendix)
 
 ## Group Information:
 - Sean Bridgeman: Head of Product, Halight (Project Sponsor)
@@ -26,8 +25,6 @@
 - Benefit 2: Support data-driven decision-making for product and customer strategy teams through weekly lifecycle insights.
 - Benefit 3: Increase efficiency by automating user journey reporting and reducing manual analysis time.
 - Benefit 4: Discover growth opportunities by uncovering patterns in user behavior and lifecycle progression.
-## Cost Estimates
-- 
 ## Appendix:
 - The deliverables for our Capstone Project are listed down below:
 
