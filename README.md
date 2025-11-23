@@ -8,13 +8,15 @@
 7. [Appendix](#appendix)
 
 ## Group Information:
-- Sean Bridgeman: Head of Product, Halight (Project Sponsor)
-- Prof. Manjari Maheshwari: Faculty - Data Analytics (Project Coordinator)
-- Sofia Alfaro
-- Yazan Al-Shash
-- Pamela Gatica
-- Diego Moreno
-- Eddie Morgan (Team Lead)
+- **Project Sponsor**: Sean Bridgeman.
+- **Project Coordinator**: Prof. Manjari Maheshwari 
+- **Project Manager**: Eddie Morgan 
+- **Core Team Members (5-person team):**
+    - Eddie Morgan
+    - Diego Moreno
+    - Sofia Alfaro
+    - Pamela Gatica
+    - Yazan Al-Shash. 
 ## Project Name
 - **Retention Framework Insights**
 ## Project Purpose
