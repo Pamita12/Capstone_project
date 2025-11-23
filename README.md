@@ -29,7 +29,7 @@
 - The deliverables for our Capstone Project are listed down below:
 
 
-1. Preliminary Dashboard in Power BI
+1. _**Preliminary Dashboard in Power BI**_
     - Displays insights about user engagement metrics, such as:
       - Online users (Current Month vs Last Month and Last Year)
       - Average Daily Engagement Score over time
