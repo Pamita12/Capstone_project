@@ -33,9 +33,10 @@
 
 1. Preliminary Dashboard in Power BI
 
-- Install Flask, SQLite3, and other dependencies.
-- Use pathlib for dynamic path management.
-- Define the SQLite database file relative to the script’s directory.
+    - Displays insights about user engagement metrics, such as:
+          - Online users (Current Month vs Last Month and Last Year)
+          - Average Daily Engagement Score over time
+          - Total & Average Lifetimes per User
 
 2. RCS dataset (CSV)
 
