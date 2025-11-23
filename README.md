@@ -3,7 +3,7 @@
 2. [Project Name](#project-name)
 3. [Project Purpose](#project-purpose)
 4. [Business Benefits](#business-benefits)
-5.[Installation and Configuration Instructions](#installation-and-configuration-instructions)
+5. [Installation and Configuration Instructions](#installation-and-configuration-instructions)
 6. [Running the project_flask Application](#running-the-project_flask-application)
 7. [Appendix](#appendix)
 
