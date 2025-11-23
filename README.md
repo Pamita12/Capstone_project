@@ -44,6 +44,8 @@ The deliverables for our Capstone Project are listed down below:
       - _client_name_
       - _region_name_
       - _month_date_
+      - _online_users_
+      - _survey completions_
 
 3. **_Exploratory Data Analysis (EDA) in Jupyter Notebook (ipynb)_**
 
