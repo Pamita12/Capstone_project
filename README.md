@@ -6,14 +6,14 @@
 5. [Appendix](#appendix)
 
 ## Group Information:
-- **Project Sponsor**: Sean Bridgeman.
+- **Project Sponsor**: Sean Bridgeman
 - **Project Coordinator**: Prof. Manjari Maheshwari 
 - **Core Team Members (5-person team):**
     - Eddie Morgan (Team Lead)
     - Diego Moreno
     - Sofia Alfaro
     - Pamela Gatica
-    - Yazan Al-Shash. 
+    - Yazan Al-Shash
 ## Project Name
 - **Retention Framework Insights**
 ## Project Purpose
