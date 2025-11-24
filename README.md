@@ -53,6 +53,4 @@ The deliverables for our Capstone Project are listed down below:
 - Functionality: Render about.html with an overview of the dataset and application purpose.
 
 4. **_Business Case & Project Charter_**
-
-- Route: /data
-- Functionality: Connect to the SQLite database, fetch records from student_health, and render data_table.html.
+This section outlines the purpose, justification, and structure of the project. It defines the problem being addressed, project objectives, expected benefits, constraints, and risks. It also establishes the project scope, key stakeholders, and high-level plan that will guide the development process.
