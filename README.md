@@ -49,7 +49,7 @@ The deliverables for our Capstone Project are listed down below:
 
 3. **_Exploratory Data Analysis (EDA)_**
     - Used EDA to summarize the characteristics of the dataset, detect patterns/relationships, and identify outliers.
-    - Assessed various Machine Learning methods to incorporate on the project for the Winter session.
+    - Assessed various Machine Learning methods to make future predictions on the project for the Winter session.
 
 4. **_Business Case & Project Charter_**
     - This section outlines the purpose, justification, and structure of the project.
