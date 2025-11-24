@@ -17,7 +17,7 @@
 ## Project Name
 - **Retention Framework Insights**
 ## Project Purpose
-- This project is help a local company in Tecumseh, ON, understand how users move through their learning journey.
+- This project is designed to help a local company in Tecumseh, ON, understand how users move through their learning journey.
 - By analyzing where users drop off and how they engage, our final dashboard may give clear insights to improve retention, help with better decision making and show possible opportunities to make the learning experience more engaging and effective. 
 - The data was sourced through a third party (Halight) via Athena; an AWS SQL Server.
 ## Business Benefits
