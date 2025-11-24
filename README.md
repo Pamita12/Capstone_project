@@ -47,10 +47,9 @@ The deliverables for our Capstone Project are listed down below:
       - _online_users_
       - _survey completions_
 
-3. **_Exploratory Data Analysis (EDA) in Jupyter Notebook (ipynb)_**
-
-- Route: /about
-- Functionality: Render about.html with an overview of the dataset and application purpose.
+3. **_Exploratory Data Analysis (EDA)_**
+    - Used EDA to summarize the characteristics of the dataset, detect patterns/relationships, and identify outliers.
+    - Assessed various Machine Learning methods to incorporate on the project for the Winter session.
 
 4. **_Business Case & Project Charter_**
     - This section outlines the purpose, justification, and structure of the project.
