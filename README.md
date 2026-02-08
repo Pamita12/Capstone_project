@@ -35,15 +35,14 @@ The deliverables for our Capstone Project are listed down below:
 
 
 ### 1. _**Preliminary Dashboard in Power BI**_
-    - Displays insights about user engagement metrics, such as:
+   - Displays insights about user engagement metrics, such as:
       - Online users (Current Month vs Last Month and Last Year)
       - Average Daily Engagement Score over time
       - Total & Average Lifetimes per User
 
 ### 2. _**RCS dataset**_
-
-    - A Command-Separated-Value (CSV) flat file comprising of 30 variables and 856 observations
-    - Some notable variables used in our analysis include:
+   - A Command-Separated-Value (CSV) flat file comprising of 30 variables and 856 observations
+   - Some notable variables used in our analysis include:
       - _avg_daily_engagement_score_
       - _total_lifetimes_
       - _client_name_
@@ -53,17 +52,17 @@ The deliverables for our Capstone Project are listed down below:
       - _survey completions_
 
 ### 3. **_Exploratory Data Analysis (EDA)_**
-    - Used EDA to summarize the characteristics of the dataset, detect patterns/relationships, and identify outliers.
-    - Assessed various Machine Learning methods to make future predictions on the project for the Winter session.
+   - Used EDA to summarize the characteristics of the dataset, detect patterns/relationships, and identify outliers.
+   - Assessed various Machine Learning methods to make future predictions on the project for the Winter session.
 
 ### 4. **_Business Case and Project Charter_**
-    - This section outlines the purpose, justification, and structure of the project.
-    - It defines the problem being addressed, project objectives, expected benefits, constraints, and risks.
-    - It also establishes the project scope, key stakeholders, and high-level plan that will guide the development process.
+   - This section outlines the purpose, justification, and structure of the project.
+   - It defines the problem being addressed, project objectives, expected benefits, constraints, and risks.
+   - It also establishes the project scope, key stakeholders, and high-level plan that will guide the development process.
   
 ### 5. **_Machine Learning Predictions_**
-    - In this section, we apply three machine learning techniques to classify engagement levels (high vs. low) and to forecast engagement trends for 2026 using historical data.
-    - The models and techniques used include:
+   - In this section, we apply three machine learning techniques to classify engagement levels (high vs. low) and to forecast engagement trends for 2026 using historical data.
+   - The models and techniques used include:
         - Seasonal Naive Forecasting for projecting future engagement trends
         - K-Means Clustering for identifying engagement patterns
         - Logistic Regression for predicting high and low engagement 
