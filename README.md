@@ -13,7 +13,7 @@
     - Diego Moreno
     - Sofia Alfaro
     - Pamela Gatica
-    - Yazan Al-Shash
+    - Yazan Al Shash
 ## Project Name
 - **Retention Framework Insights**
 ## Project Purpose
