@@ -55,3 +55,14 @@ The deliverables for our Capstone Project are listed down below:
     - This section outlines the purpose, justification, and structure of the project.
     - It defines the problem being addressed, project objectives, expected benefits, constraints, and risks.
     - It also establishes the project scope, key stakeholders, and high-level plan that will guide the development process.
+  
+5. **_Machine Learning Predictions_**
+    - In this section, we apply three machine learning techniques to classify engagement levels (high vs. low) and to forecast engagement trends for 2026 using historical data.
+    - The models and techniques used include:
+        - Seasonal Naive Forecasting for projecting future engagement trends
+        - K-Means Clustering for identifying engagement patterns
+        - Logistic Regression for predicting high and low engagement 
+ 
+ 
+ 
+
